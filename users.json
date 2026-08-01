@@ -15,5 +15,14 @@
     "status": "active",
     "createdAt": "2026-08-01",
     "createdBy": "alfian"
+  },
+  {
+    "id": 3,
+    "username": "reseller02",
+    "password": "1234567",
+    "role": "reseller",
+    "status": "active",
+    "createdAt": "2026-08-01",
+    "createdBy": "alfian"
   }
 ]
