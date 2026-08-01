@@ -1,28 +1,18 @@
 [
   {
     "id": 1,
-    "username": "alfian",
-    "password": "yanzx110379",
+    "telegramId": "8360460554",
+    "name": "Alfian",
     "role": "owner",
     "status": "active",
     "createdAt": "2026-08-01"
   },
   {
     "id": 2,
-    "username": "reseller01",
-    "password": "123456",
-    "role": "reseller",
-    "status": "inactive",
-    "createdAt": "2026-08-01",
-    "createdBy": "alfian"
-  },
-  {
-    "id": 3,
-    "username": "reseller02",
-    "password": "1234567",
+    "telegramId": "987654321",
+    "name": "Reseller01",
     "role": "reseller",
     "status": "active",
-    "createdAt": "2026-08-01",
-    "createdBy": "alfian"
+    "createdAt": "2026-08-01"
   }
 ]
